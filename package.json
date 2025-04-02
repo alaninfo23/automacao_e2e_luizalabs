@@ -1,0 +1,15 @@
+{
+  "name": "automacao_luizalabs",
+  "version": "1.0.0",
+  "description": "O [Dev.finance$](http://maratona-discover-devfinance.netlify.app/#) é uma aplicação web criada o objetivo de facilitar o controle financeiro pessoal. O sistema permite registrar entradas e saídas financeiras, além de calcular automaticamente o saldo disponível.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
