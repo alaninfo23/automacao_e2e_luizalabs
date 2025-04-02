@@ -6,8 +6,8 @@ Este documento contém os principais **casos de teste funcionais**, validando a 
 ## Setup
 
 ### Pré-requisitos:
-✔️ Instalar o NodeJS
-✔️ Instalar um editor de texto, como o Visual Studio Code
+✔️ Instalar o NodeJS \
+✔️ Instalar um editor de texto, como o Visual Studio Code \
 ✔️ Instalar o Git (caso queira trabalhar com projeto em sua máquina)
 
 ### Execução
